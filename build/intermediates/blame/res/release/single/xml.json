@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\git\\tee-checker\\build\\intermediates\\res\\merged\\release\\xml\\tlk_prefs.xml",
+        "source": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\git\\tee-checker\\src\\main\\res\\xml\\tlk_prefs.xml"
+    },
+    {
+        "merged": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\git\\tee-checker\\build\\intermediates\\res\\merged\\release\\xml\\mobicore_prefs.xml",
+        "source": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\git\\tee-checker\\src\\main\\res\\xml\\mobicore_prefs.xml"
+    },
+    {
+        "merged": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\git\\tee-checker\\build\\intermediates\\res\\merged\\release\\xml\\tf_prefs.xml",
+        "source": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\git\\tee-checker\\src\\main\\res\\xml\\tf_prefs.xml"
+    },
+    {
+        "merged": "/home/gigi/AndroidStudioProjects/tee-checker/build/intermediates/res/merged/release/xml/tlk_prefs.xml",
+        "source": "/home/gigi/AndroidStudioProjects/tee-checker/src/main/res/xml/tlk_prefs.xml"
+    },
+    {
+        "merged": "/home/gigi/AndroidStudioProjects/tee-checker/build/intermediates/res/merged/release/xml/qsee_prefs.xml",
+        "source": "/home/gigi/AndroidStudioProjects/tee-checker/src/main/res/xml/qsee_prefs.xml"
+    },
+    {
+        "merged": "/home/gigi/AndroidStudioProjects/tee-checker/build/intermediates/res/merged/release/xml/mobicore_prefs.xml",
+        "source": "/home/gigi/AndroidStudioProjects/tee-checker/src/main/res/xml/mobicore_prefs.xml"
+    },
+    {
+        "merged": "/home/gigi/AndroidStudioProjects/tee-checker/build/intermediates/res/merged/release/xml/platform_prefs.xml",
+        "source": "/home/gigi/AndroidStudioProjects/tee-checker/src/main/res/xml/platform_prefs.xml"
+    },
+    {
+        "merged": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\git\\tee-checker\\build\\intermediates\\res\\merged\\release\\xml\\qsee_prefs.xml",
+        "source": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\git\\tee-checker\\src\\main\\res\\xml\\qsee_prefs.xml"
+    },
+    {
+        "merged": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\git\\tee-checker\\build\\intermediates\\res\\merged\\release\\xml\\platform_prefs.xml",
+        "source": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\git\\tee-checker\\src\\main\\res\\xml\\platform_prefs.xml"
+    },
+    {
+        "merged": "/home/gigi/AndroidStudioProjects/tee-checker/build/intermediates/res/merged/release/xml/tf_prefs.xml",
+        "source": "/home/gigi/AndroidStudioProjects/tee-checker/src/main/res/xml/tf_prefs.xml"
+    }
+]

@@ -1,0 +1,506 @@
+[
+    {
+        "outputFile": "/home/gigi/AndroidStudioProjects/tee-checker/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 112,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 99,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 99,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 112,
+                    "endOffset": 376
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 112,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 381,
+                    "endColumn": 86,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 86,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 105,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 105,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 111,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 111,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 108,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 108,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 103,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 103,
+                        "endOffset": 1028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endColumn": 96,
+                    "endOffset": 991
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1033,
+                        "endColumn": 96,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 996,
+                    "endColumn": 107,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 107,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1104,
+                    "endColumn": 100,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 100,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1205,
+                    "endColumn": 102,
+                    "endOffset": 1303
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 102,
+                        "endOffset": 1437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1308,
+                    "endColumn": 121,
+                    "endOffset": 1425
+                },
+                "from": {
+                    "file": "/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/res/values-mn-rMN/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1442,
+                        "endColumn": 121,
+                        "endOffset": 1559
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\git\\tee-checker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn-rMN\\values-mn-rMN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 112,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 99,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 99,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 112,
+                    "endOffset": 376
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 112,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 381,
+                    "endColumn": 86,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 86,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 105,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 105,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 111,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 111,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 108,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 108,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 103,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 103,
+                        "endOffset": 1028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endColumn": 96,
+                    "endOffset": 991
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1033,
+                        "endColumn": 96,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 996,
+                    "endColumn": 107,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 107,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1104,
+                    "endColumn": 100,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 100,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1205,
+                    "endColumn": 102,
+                    "endOffset": 1303
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 102,
+                        "endOffset": 1437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1308,
+                    "endColumn": 121,
+                    "endOffset": 1425
+                },
+                "from": {
+                    "file": "/home/gigi/AndroidStudioProjects/tee-checker/C:\\Users\\Gigi\\.android\\build-cache\\0637db4de4ea5d1e66a49f5a36f05b0edc2f29e1\\output\\res\\values-mn-rMN\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1442,
+                        "endColumn": 121,
+                        "endOffset": 1559
+                    }
+                }
+            }
+        ]
+    }
+]

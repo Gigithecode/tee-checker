@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb69b5c2e53e59d82f7439f3217f46f9d98f0c89">
+        <dex dex="/home/gigi/AndroidStudioProjects/tee-checker/build/intermediates/pre-dexed/debug/classes_c21e49fb7737602e02d260e97a70356345dc0bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gigi/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="/home/gigi/AndroidStudioProjects/tee-checker/build/intermediates/pre-dexed/debug/support-v4-19.0.0_b273212607f1614f3f0a1403faa5797dc181af63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gigi/Android/Sdk/extras/android/m2repository/com/android/support/support-v13/19.0.0/support-v13-19.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc8ccb8ee435883471a5f5856b00f5f86d3f938c">
+        <dex dex="/home/gigi/AndroidStudioProjects/tee-checker/build/intermediates/pre-dexed/debug/support-v13-19.0.0_e9e3bf5d985d7010841af77dbb7078e76cc37912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gigi/Android/Sdk/extras/android/m2repository/com/android/support/support-v13/19.0.0/support-v13-19.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc8ccb8ee435883471a5f5856b00f5f86d3f938c">
+        <dex dex="/home/gigi/AndroidStudioProjects/tee-checker/build/intermediates/pre-dexed/debug/support-v13-19.0.0_e9e3bf5d985d7010841af77dbb7078e76cc37912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gigi/.android/build-cache/fe75466c7128f9bb2ebfdc261441d1f96a3ab67a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb69b5c2e53e59d82f7439f3217f46f9d98f0c89">
+        <dex dex="/home/gigi/AndroidStudioProjects/tee-checker/build/intermediates/pre-dexed/debug/classes_c21e49fb7737602e02d260e97a70356345dc0bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gigi/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="/home/gigi/AndroidStudioProjects/tee-checker/build/intermediates/pre-dexed/debug/support-v4-19.0.0_b273212607f1614f3f0a1403faa5797dc181af63.jar" />
+    </item>
+
+</items>

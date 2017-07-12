@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/gigi/AndroidStudioProjects/tee-checker/src/main/jniLibs"><file name="armeabi/libmobicoreversion.so" path="/home/gigi/AndroidStudioProjects/tee-checker/src/main/jniLibs/armeabi/libmobicoreversion.so"/></source></dataSet><dataSet config="debug"><source path="/home/gigi/AndroidStudioProjects/tee-checker/src/debug/jniLibs"/></dataSet></merger>

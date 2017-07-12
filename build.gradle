@@ -1,0 +1,75 @@
+buildscript {
+    repositories {
+        jcenter()
+        maven {
+            url 'https://maven.google.com'
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.3'
+        classpath 'com.google.gms:google-services:3.0.0'
+        classpath "io.realm:realm-gradle-plugin:3.1.3"
+    }
+}
+
+allprojects {
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+}
+
+apply plugin: 'com.android.application'
+
+
+android {
+    lintOptions {
+        abortOnError false
+    }
+    signingConfigs {
+        config {
+            keyAlias 'my-key'
+            keyPassword 'azerty'
+            storeFile file('/home/gigi/.android/my-release-key.jks')
+            storePassword 'azerty'
+        }
+    }
+    compileSdkVersion 19
+    buildToolsVersion '25.0.2'
+    defaultConfig {
+        applicationId 'com.ifihada.teechecker'
+        minSdkVersion 19
+        targetSdkVersion 19
+        versionCode 1
+        versionName '1.0'
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+            debuggable false
+            jniDebuggable false
+            renderscriptDebuggable false
+            zipAlignEnabled true
+        }
+        debug {
+            signingConfig signingConfigs.config
+            debuggable true
+            jniDebuggable false
+            renderscriptDebuggable false
+            minifyEnabled false
+            zipAlignEnabled true
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:19.0.0'
+    compile 'com.android.support:support-v13:19.0.0'
+    testCompile 'junit:junit:4.12'
+}
